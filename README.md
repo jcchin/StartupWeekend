@@ -1,4 +1,4 @@
-[http://jcchin.github.io/StartupWeekend/](http://jcchin.github.io/StartupWeekend/)
+[http://jcchin.github.io/StartupWeekend/#/](http://jcchin.github.io/StartupWeekend/#/)
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
